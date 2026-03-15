@@ -203,8 +203,8 @@ Body: { image: <file> }
 ## Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [yourname](https://linkedin.com/in/yourname)
+- GitHub: [@yourusername](https://github.com/anirudh89201)
+- LinkedIn: [yourname](https://www.linkedin.com/in/anirudh-reddy-925487164/)
 
 ---
 
